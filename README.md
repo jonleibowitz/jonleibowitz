@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I run a shoestring hosting operation, [JEL-tech](https://jel-tech.com). Come talk to me (virtually) if you are looking for a managed virtual server to host PHP apps. 
